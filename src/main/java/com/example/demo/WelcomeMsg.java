@@ -8,7 +8,7 @@ public class WelcomeMsg {
 	
 	@GetMapping("/hello")
 	public String  msg() {
-		return "Good morning";
+		return "Welcome to Dextris...!";
 		
 	}
 
